@@ -8,6 +8,11 @@
 - 💬 `Ask me about:` Anything related to software development. Whether it's choosing the right framework for your next project, best practices in mobile/web app development, or how to get started with IoT devices, I'm here to share what I've learned and learn from you in return.
 + 📫 `How to reach me:` You can contact me via [email](mailto:y.lafryhi@gmail.com) or [Google Chat](https://chat.google.com) at y.lafryhi@gmail.com
 
+## Recent Projects:
+
+- [SwiftySpell: A tool for checking spelling in Swift code](https://github.com/YassineLafryhi/SwiftySpell)
+- [Swiftsonver: A CLI tool to create a full mock REST API with zero coding](https://github.com/YassineLafryhi/Swiftsonver)
+
 ## Recent Blog Posts :
 
 - [Optimizing iOS Development: Essential Build Phase Scripts](https://yassinelafryhi.github.io/2024/02/19/optimizing-ios-development-essential-build-phase-scripts/)
@@ -18,4 +23,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=swift,cs,dart,kotlin,java,scala,c,cpp,perl,solidity,v,rust,go,r,flutter,gradle,graphql,maven,git,github,rabbitmq,bash,powershell,opencv,cmake,mysql,postgres,redis,mongo,cassandra,sqlite,linux,python,ruby,js,ts,php,html,css,tailwind,bootstrap,materialui,sass,react,redux,vue,angular,nextjs,svelte,ember,jest,jquery,postman,nginx,nodejs,nestjs,express,deno,spring,hibernate,kafka,docker,kubernetes,laravel,symfony,latex,django,flask,fastapi,rails,ktor,dotnet,arduino,raspberrypi,unity,blender,idea,androidstudio,vscode,visualstudio,vim,processing,xd,figma,ps,ai,qt,tensorflow,pytorch,sklearn,regex)](https://skillicons.dev)
 
-<img src="https://s01.flagcounter.com/count2/Fkfz/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_40/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" border="0">
+<!--img src="https://s01.flagcounter.com/count2/Fkfz/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_40/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" border="0"-->
