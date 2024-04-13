@@ -10,6 +10,7 @@
 
 ## Recent Projects:
 
+- [ShExec: A CLI tool that runs shell scripts based on natural language descriptions](https://github.com/YassineLafryhi/ShExec)
 - [SwiftySpell: A tool for checking spelling in Swift code](https://github.com/YassineLafryhi/SwiftySpell)
 - [Swiftsonver: A CLI tool to create a full mock REST API with zero coding](https://github.com/YassineLafryhi/Swiftsonver)
 
