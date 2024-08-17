@@ -10,6 +10,8 @@
 
 ## Recent Projects:
 
+- [EasyXCProj: A Swift library that simplifies the creation, configuration, and management of Xcode projects](https://github.com/YassineLafryhi/EasyXCProj)
+- [Swifthon: A Swift library that aims to make Swift usage similar to Python](https://github.com/YassineLafryhi/Swifthon)
 - [ShExec: A CLI tool that runs shell scripts based on natural language descriptions](https://github.com/YassineLafryhi/ShExec)
 - [SwiftySpell: A tool for checking spelling in Swift code](https://github.com/YassineLafryhi/SwiftySpell)
 - [Swiftsonver: A CLI tool to create a full mock REST API with zero coding](https://github.com/YassineLafryhi/Swiftsonver)
